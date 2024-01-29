@@ -28,7 +28,9 @@
 ![1](https://github.com/znak72/13-01/blob/main/SCR-20240129-jfyr.png)
 
 https://www.exploit-db.com/exploits/17491
+
 https://www.exploit-db.com/exploits/6122
+
 https://www.exploit-db.com/exploits/30020
 
 ### Задание 2
