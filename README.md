@@ -23,6 +23,10 @@
   
 *Приведите ответ в свободной форме.*  
 
+### Решение 1
+
+![1](https://github.com/znak72/13-01/blob/main/SCR-20240129-jfyr.png)
+
 ### Задание 2
 
 Проведите сканирование Metasploitable в режимах SYN, FIN, Xmas, UDP.
